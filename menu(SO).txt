@@ -1,0 +1,8 @@
+========================================
+            South-Indian                     
+========================================
+S.no|     Food Item       |  Price
+  1  |     Vada-Sambar     |  200 rs/plt
+  2  |     Paneer-Dosa     |  220 rs/plt
+  3  |     Uttapam         |  160 rs/plt
+  4  |     Idli-Sambhar    |  170 rs/plt

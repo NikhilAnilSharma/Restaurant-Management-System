@@ -1,0 +1,11 @@
+========================================
+                 Breads                     
+========================================
+(Press 'N' to choose nothing)
+S.no|     Food Item       |  Price
+  1  |     Plain-Roti      |  20rs/plt
+  2  |     Butter-Naan     |  45 rs/plt
+  3  |     Stuffed-parantha |  90 rs/plt
+  4  |     Butter-Roti   |  30 rs/plt
+  5  |     Laccha-Parantha |  100 rs/plt
+  6  |     Missi-Roti       |  50 rs/plt

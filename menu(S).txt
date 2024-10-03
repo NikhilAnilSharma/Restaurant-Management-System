@@ -1,0 +1,12 @@
+========================================
+              Street Food                     
+========================================
+(Press 'N' to choose nothing)
+S.no|     Food Item       |  Price
+  1  |     Gol-gappa        |  30 rs/plt
+  2  |     Bhelpuri         |  50 rs/plt
+  3  |     Aloo-Tikki       |  80 rs/plt
+  4  |     Pao-Bhaji        |  90 rs/plt
+  5  |     Matar-Kulcha     |  85 rs/plt
+  6  |     Malai-Chaap      |  180 rs/plt
+  7  |     Samosa           |  20 rs/plt

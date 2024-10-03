@@ -1,0 +1,12 @@
+=================================================
+                  Chinese                     
+=================================================
+(Press 'N' to choose nothing)
+S.no|     Food Item       |  Price
+  1  |     Chilli-Potato   |  50 rs/plt
+  2  |     Spring-Roll     |  80 rs/plt
+  3  |     chilli-Paneer   |  300 rs/plt
+  4  |     Manchurian       |  90 rs/plt
+  5  |     sushi            |  250 rs/psc
+  6  |     hakka-noodles    |  150 rs/plt
+  7  |     Momos            |  40 rs/plt

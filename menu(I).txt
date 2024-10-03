@@ -1,0 +1,15 @@
+========================================
+                Indian                     
+========================================
+(Press 'N' to choose nothing)
+S.no|     Food Item       |  Price
+  1  |     Shahi-Paneer    |  190 rs/plt
+  2  |     Mix-Veg         |  170 rs/plt
+  3  |     Malai-Kofta     |  200 rs/plt
+  4  |     Dum-Aloo        |  210 rs/plt
+  5  |     Kadhai-Paneer   |  220 rs/plt
+  6  |     Plain-Rice      |  150 rs/plt
+  7  |     Jeera-Rice      |  160 rs/plt
+  8  |     Raita           |  100 rs/plt 
+  9  |     Dal-Makhani     |  180 rs/plt
+  10 |     Yellow-Dal-Tadka|  170 rs/plt
